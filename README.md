@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm STARK</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img src="https://raw.githubusercontent.com/STARK-404/STARK-404/main/giphy.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stark-404&label=Profile%20views&color=0e75b6&style=flat" alt="stark-404" /> </p>
 
