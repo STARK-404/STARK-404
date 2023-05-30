@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm STARK</h1>
+<h1 align="center">Hi I'm STARK</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
 <img src="https://raw.githubusercontent.com/STARK-404/STARK-404/main/giphy.webp"/>
