@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **programing And CyberSec**
 
-- 👯 I’m looking to collaborate on **INSTA**
+- 👯 I’m looking to collaborate on **something I can **
 
 - 👨‍💻 All of my projects are available at [https://github.com/STARK-404/](https://github.com/STARK-404/)
 
