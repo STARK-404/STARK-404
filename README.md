@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stark-404&label=Profile%20views&color=0e75b6&style=flat" alt="stark-404" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+**- 🔭 I’m currently working on Something New**
 
-- 🌱 I’m currently learning **programing And CyberSec**
+**- 🌱 I’m currently learning Programing And CyberSec**
 
-- 👯 I’m looking to collaborate on **something I can**
+**- 👯 I’m looking to collaborate on something I can**
 
-- 👨‍💻 All of my projects are available at [https://github.com/STARK-404/](https://github.com/STARK-404/)
+**- 👨‍💻 All of my projects are available at [https://github.com/STARK-404/](https://github.com/STARK-404/)**
 
-- 
-
-- 💬 Ask me about **python,nodejs,c++, CyberSec**
+**- 💬 Ask me about python,nodejs,c++, CyberSec**
 
 - 📫 How to reach me **gamerunknown509@gmail.com**
 
