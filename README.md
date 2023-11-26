@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I'm+Stark;CYBER+ENTHUAIST;Programmer; RESEARCHER;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Lal Krishna;CYBER+ENTHUAIST;Programmer; RESEARCHER;" alt="Typing SVG" /></a>
 
 **"Hey I write Some  Exploits For you !"**
 ``` 
