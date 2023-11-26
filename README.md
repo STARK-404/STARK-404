@@ -1,13 +1,20 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D74BF7&width=435&lines=Hi+Iam+Stark" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=I'm+Stark;CYBER+ENTHUAIST;Programmer; RESEARCHER;" alt="Typing SVG" /></a>
 <h3 align="center">A Passionate Developer And Cybersecurity Enthusiast from India</h3>
-<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
-<img src="https://raw.githubusercontent.com/STARK-404/STARK-404/main/giphy.webp"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stark-404&label=Profile%20views&color=0e75b6&style=flat" alt="stark-404" /> </p>
+
+
+
 
 # Introduction
 I'm Lalkrishna Cybersecurity Student & Programmer. I  Write Python,Nodejs,
 C++ Projects That Related To Hacking , You Can See & Contribute Here.
+
+<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stark-404&label=Profile%20views&color=0e75b6&style=flat" alt="stark-404" /> </p>
+
+
 # Project
 ## Project 1: Whatsapp-Spy 
 - Description: Its A simple Social engineering Tool,it Helps to Spy Contacts , Messages..etc
