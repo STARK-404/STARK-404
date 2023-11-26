@@ -32,8 +32,7 @@ C++ Projects That Related To Hacking , You Can See & Contribute Here.
 <p align="left">
 <a href="https://twitter.com/Lalkrishna6314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stark404" height="30" width="40" /></a>
 <a href="https://instagram.com/la1uuuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la1uuuuu" height="30" width="40" /></a>
-  <a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-</p>
+
 
 **Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions related to Python. Let's connect and create something amazing with Python!**
 <br>
