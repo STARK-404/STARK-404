@@ -12,11 +12,11 @@ C++ Projects That Related To Hacking , You Can See & Contribute Here.
 ## Project 1: Whatsapp-Spy 
 - Description: Its A simple Social engineering Tool,it Helps to Spy Contacts , Messages..etc
 - Language Used : Nodejs
-- Sample : 
+- Sample : [https://youtu.be/VlHsYEoiUfk?si=mTdhwXWFB4sWbgc7](https://youtu.be/VlHsYEoiUfk?si=mTdhwXWFB4sWbgc7)
 ## Project 2: Insta
 - Description : It's A Simple Bruteforce..Used To Crack Instagram Passwords!
 - Language used: Python.
-- Sample:
+- Sample :[https://github.com/STARK-404/INSTA](https://github.com/STARK-404/INSTA/)
 
   
 
