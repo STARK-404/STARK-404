@@ -23,10 +23,10 @@ C++ Projects That Related To Hacking , You Can See & Contribute Here.
 - Description: Its A simple Social engineering Tool,it Helps to Spy Contacts , Messages..etc
 - Language Used : Nodejs
 - Sample : [https://youtu.be/VlHsYEoiUfk?si=mTdhwXWFB4sWbgc7](https://youtu.be/VlHsYEoiUfk?si=mTdhwXWFB4sWbgc7)
-## Project 2: Insta
-- Description : It's A Simple Bruteforce..Used To Crack Instagram Passwords!
+## Project 2: INSTAHACK 
+- Description : It's A Multi Bruteforce and Auto password gen..Used To Crack Instagram Passwords!
 - Language used: Python.
-- Sample :[https://github.com/STARK-404/INSTA](https://github.com/STARK-404/INSTA/)
+- Sample :[https://github.com/STARK-404/INSTA](https://github.com/STARK-404/INSTAHACK/)
 
   
 
