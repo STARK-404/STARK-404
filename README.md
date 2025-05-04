@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Lal Krishna;CYBER+ENTHUAIST;Programmer; RESEARCHER;" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&width=435&lines=STARK-404;Programmer+;Researcher)](https://git.io/typing-svg)
 
 **"Hey I write Some  Exploits For you !"**
 ``` 
@@ -9,7 +9,7 @@ print ('Welcome!!')
 
 
 # Introduction
-I'm Lalkrishna Cybersecurity Enthuaist & Programmer. I  Write Python,Nodejs,
+I'm STARK-404 Cybersecurity Enthuaist & Programmer. I  Write Python,Nodejs,
 C++ Projects That Related To Hacking , You Can See & Contribute Here.
 
 <img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
