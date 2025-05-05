@@ -42,7 +42,7 @@ C++ Projects That Related To Hacking , You Can See & Contribute Here.
 <p align="left">
 <a href="https://twitter.com/st4rK_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stark404" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la1uuuuu" height="30" width="40" /></a>
-<a href='https://in.linkedin.com/in/lal-krishna-b-9b8144277'><img src='https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png' align='center' height="35" width="35"></a>
+
 <a href='https://youtube.com/@odin4gb?si=xGQtqp9aZhusMVzr'><img src='https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/youtube-circle.png' align='center' height="35" width="35"></a>
 
 </p>
