@@ -40,8 +40,8 @@ C++ Projects That Related To Hacking , You Can See & Contribute Here.
 
 
 <p align="left">
-<a href="https://twitter.com/Lalkrishna6314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stark404" height="30" width="40" /></a>
-<a href="https://instagram.com/la1uuuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la1uuuuu" height="30" width="40" /></a>
+<a href="https://twitter.com/st4rK_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stark404" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la1uuuuu" height="30" width="40" /></a>
 <a href='https://in.linkedin.com/in/lal-krishna-b-9b8144277'><img src='https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png' align='center' height="35" width="35"></a>
 <a href='https://youtube.com/@odin4gb?si=xGQtqp9aZhusMVzr'><img src='https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/youtube-circle.png' align='center' height="35" width="35"></a>
 
@@ -50,11 +50,11 @@ C++ Projects That Related To Hacking , You Can See & Contribute Here.
 **Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions related to Python. Let's connect and create something amazing with Python!**
 <br>
 
-+ Collaboration : <a href='mailto: gamerunknown509@gmail.com?subject=Intrested_to_Collab!'>Contact me </a>
++ Collaboration : <a href='mailto: lautaronahuelus@gmail.com?subject=Intrested_to_Collab!'>Contact me </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=STARK-404&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" alt="shijithbinoy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=STARK-404&theme=dark" alt="shijithbinoy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=STARK-404&theme=dark" alt="stark404" /></p>
 
 
 ## Donate/Support 
